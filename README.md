@@ -8,7 +8,8 @@
 3.   Without using any Internet data (It only uses colab's online servers)
 
 ### Using colab notebook:
-https://colab.research.google.com/drive/1F1HcoKuzfAtSGbNVYpO0zq1HbSCeJWhW?usp=sharing
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F1HcoKuzfAtSGbNVYpO0zq1HbSCeJWhW?usp=sharing)
 
 ---
 If in any problem, please raise an issue on github
