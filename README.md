@@ -9,7 +9,7 @@
 
 ### Using colab notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jim137/google-drive-to-youtube-video/blob/master/YouTube_uploader_for_google_drive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Amagnum/google-drive-to-youtube-video/blob/master/YouTube_uploader_for_google_drive.ipynb)
 
 ---
 If in any problem, please raise an issue on github
